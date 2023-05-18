@@ -1,0 +1,15 @@
+C:\Users\Alexandru\source\repos\L4TMPS\bin\Debug\net6.0\L4TMPS.exe
+C:\Users\Alexandru\source\repos\L4TMPS\bin\Debug\net6.0\L4TMPS.deps.json
+C:\Users\Alexandru\source\repos\L4TMPS\bin\Debug\net6.0\L4TMPS.runtimeconfig.json
+C:\Users\Alexandru\source\repos\L4TMPS\bin\Debug\net6.0\L4TMPS.dll
+C:\Users\Alexandru\source\repos\L4TMPS\bin\Debug\net6.0\L4TMPS.pdb
+C:\Users\Alexandru\source\repos\L4TMPS\obj\Debug\net6.0\L4TMPS.csproj.AssemblyReference.cache
+C:\Users\Alexandru\source\repos\L4TMPS\obj\Debug\net6.0\L4TMPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandru\source\repos\L4TMPS\obj\Debug\net6.0\L4TMPS.AssemblyInfoInputs.cache
+C:\Users\Alexandru\source\repos\L4TMPS\obj\Debug\net6.0\L4TMPS.AssemblyInfo.cs
+C:\Users\Alexandru\source\repos\L4TMPS\obj\Debug\net6.0\L4TMPS.csproj.CoreCompileInputs.cache
+C:\Users\Alexandru\source\repos\L4TMPS\obj\Debug\net6.0\L4TMPS.dll
+C:\Users\Alexandru\source\repos\L4TMPS\obj\Debug\net6.0\refint\L4TMPS.dll
+C:\Users\Alexandru\source\repos\L4TMPS\obj\Debug\net6.0\L4TMPS.pdb
+C:\Users\Alexandru\source\repos\L4TMPS\obj\Debug\net6.0\L4TMPS.genruntimeconfig.cache
+C:\Users\Alexandru\source\repos\L4TMPS\obj\Debug\net6.0\ref\L4TMPS.dll
